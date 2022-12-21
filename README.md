@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I'm Aaron, a cyber security operations analyst at [Monzo Bank](https://github.com/monzo).
+- 🌴 In my free time, I like to get stuck into various open source projects that I find useful.
+- 🏡 As [Home Assistant](https://github.com/home-assistant/core) is one of the projects I use the most, many of my contributions are to addons or integrations for that.
+
+
+
 <!--
 **caraar12345/caraar12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
